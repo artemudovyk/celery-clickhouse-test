@@ -1,5 +1,9 @@
 # Test-task-Celery-Clickhouse
 
+Repository created as part of a take-home assignment during the interview process in late 2021.
+
+---
+
 Відео з прикладом роботи:
 https://monosnap.com/file/xqDWfeEIuybZ04jxnVSqKiqCxG3q6i
 
